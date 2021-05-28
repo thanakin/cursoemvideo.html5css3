@@ -9,14 +9,14 @@ Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]
 Módulo 1
 
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?
-<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 1 Aula 1 – Precisamos fazer um acordo
-<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 1 Aula 2 – Será que este curso é para mim?
-<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/>   Capítulo 1 Aula 3 – Melhores livros para aprender HTML5 e CSS3
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 1 Aula 1 – Precisamos fazer um acordo
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 1 Aula 2 – Será que este curso é para mim?
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 1 Aula 3 – Melhores livros para aprender HTML5 e CSS3
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 1 Aula 4 – Como a Internet chega na minha casa?
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 2 Aula 1 – Como a Internet funciona?
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 2 Aula 2 – O que é domínio e hospedagem?
-<br> Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript
-<br> Capítulo 3 Aula 2 – Front-end, Back-end e Full stack
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 3 Aula 2 – Front-end, Back-end e Full stack
 <br> Capítulo 4 Aula 1 – Instalando todas as ferramentas
 <br> Capítulo 4 Aula 2 – Seu primeiro código HTML
 <br> Capítulo 5 Aula 1 – Parágrafos e Quebras
