@@ -19,8 +19,8 @@ Módulo 1
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 3 Aula 2 – Front-end, Back-end e Full stack
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 4 Aula 1 – Instalando todas as ferramentas
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 4 Aula 2 – Seu primeiro código HTML
-<br> Capítulo 5 Aula 1 – Parágrafos e Quebras
-<br> Capítulo 5 Aula 2 – Símbolos e Emoji no seu site
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 5 Aula 1 – Parágrafos e Quebras
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 5 Aula 2 – Símbolos e Emoji no seu site
 <br> Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?
 <br> Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?
 <br> Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?
