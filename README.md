@@ -21,11 +21,11 @@ Módulo 1
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 4 Aula 2 – Seu primeiro código HTML
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 5 Aula 1 – Parágrafos e Quebras
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 5 Aula 2 – Símbolos e Emoji no seu site
-<br> Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?
-<br> Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?
-<br> Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?
-<br> Capítulo 6 Aula 4 – A tag img em HTML5
-<br> Capítulo 6 Aula 5 – Como mudar o favicon de um site
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 6 Aula 4 – A tag img em HTML5
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 6 Aula 5 – Como mudar o favicon de um site
 <br> Capítulo 7 Aula 1 – Hierarquia de Títulos
 <br> Capítulo 8 Aula 1 – Semântica na HTML5 é importante
 <br> Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo
