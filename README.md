@@ -31,8 +31,8 @@ Módulo 1
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 8 Aula 3 – Formatações adicionais em HTML
 <br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 8 Aula 4 – Citações e Códigos
-<br> Capítulo 9 Aula 1 – Listas OL e UL
-<br> Capítulo 9 Aula 2 – Listas mistas e de definição
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 9 Aula 1 – Listas OL e UL
+<br><img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Listas mistas e de definição
 <br> Capítulo 10 Aula 1 – Links e Âncoras em HTML5
 <br> Capítulo 10 Aula 2 – Links Internos
 <br> Capítulo 10 Aula 3 – Links para download

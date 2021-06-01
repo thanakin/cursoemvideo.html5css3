@@ -4,32 +4,78 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outras formatações</title>
+    <title>Listas</title>
 </head>
 <body>
-    <h1>Outras formatações</h1>
-    <h2>Código-fonte</h2>
-    <p>O comando <code>document.getElementById('teste')</code> é escrito em linguagem JavaScript.</p>
-    <pre>
-        <code>
-    num = int(input('Digite um número:'))
-    if num % 2 == 0:
-        print(f'O número{num} é Par')
-    else:
-        print(f'O número{num} é Impar')
-        print('Fim do programa')
-        </code>
-    </pre>
-    <h2>Citações</h2>
-    <p>Como diria o pai de um amigo: <q>o computador é um burro muito rápido</q>.</p>
-    <h2>Citações completas</h2>
-    <p>Segundo Jeff Noble, no seu livro HTML para leigos:</p>
-    <blockquote cite="endereço">
-        A difrença entre elementos inline e um bloco de texto é importante.
-    </blockquote>
-    <h2>Abreviação</h2>
-    <p>Estou estudando <abbr title="HyperText Markup Language">HTML5</abbr> e <abbr title="Cascading Style Sheets">CSS3</abbr>.</p>
-    <h2>Texto invertido</h2>
-    <p><bdo dir="rtl">Estou aprendendo a criar coisas em HTML.</bdo></p>
+    <h1>Trabalhando com listas</h1>
+    <h2>Listas Ordenadas</h2>
+    <ol type="A"><!-- 1 A a I i -->
+        <li>Acordar
+        <li>Ligar para o João
+        <li>Tomar café
+        <li>Escovar os dentes
+        <li>Ir para faculdade
+        <li>Almoçar
+        <li>Ir para o trabalho
+        <li>Voltar para casa
+        <li>Jantar
+        <li>Dormir
+    </ol>
+    <h2>Listas não Ordenadas</h2>
+    <ul type="circle"> <!-- disc circle square-->
+        <li>Pão
+        <li>Leite
+        <li>Tomate
+        <li>Manteiga
+        <li>Arroz
+        <li>Feijão
+    </ul>
+    <h2>Minhas linguagens favoritas</h2>
+    <ol>
+        <li>Antigas
+            <ol type="a">
+                <li>Clipper
+                <li>Visual Basic
+                <li>Fortran
+                <li>Delphi
+            </ol>
+        <li>Novas
+            <ol type="a" start="5">
+                <li>PHP
+                <li>Python
+                <li>JavaScript
+                <li>Kotlin
+            </ol>
+    </ol>
+    <h2>Meus jogos favoritos</h2>
+    <ol>
+        <li>NES
+            <ul>
+                <li>Mario Bros
+                <li>Ninja Gaiden
+            </ul>
+        <li>SNES
+            <ul>
+                <li>Mario
+                <li>Donkey Kong
+            </ul>
+            <ul>
+
+            </ul>
+        <li>PlayStation
+            <ul>
+                <li>Final Fantasy
+                <li>Castlevania
+            </ul>
+    </ol>
+    <h2>Lista de definições</h2>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Linguagem de marcação para a criação de um site.</dd>
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação para a estilização de um site.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de programação para interatividade em um site.</dd>
+    </dl>
 </body>
 </html>
