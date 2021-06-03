@@ -36,11 +36,11 @@ Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 10 Aula 2 – Links Internos
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 10 Aula 3 – Links para download
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 10 Aula 4 – Desafios propostos
-*  Capítulo 11 Aula 1 – Imagens Dinâmicas
-*  Capítulo 11 Aula 2 – Imagens que se adaptam sozinhas
-*  Capítulo 11 Aula 3 – Colocando áudio no seu site
-*  Capítulo 11 Aula 4 – Formatos de vídeo para seu site
-*  Capítulo 11 Aula 5 – Vídeos em hospedagem própria
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 1 – Imagens Dinâmicas
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 2 – Imagens que se adaptam sozinhas
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 3 – Colocando áudio no seu site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 4 – Formatos de vídeo para seu site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 5 – Vídeos em hospedagem própria
 *  Capítulo 11 Aula 6 – Incorporação de vídeos externos
 *  Capítulo 11 Aula 7 – Desafio: um site com vídeos
 *  Capítulo 12 Aula 1 – Estilos CSS inline
@@ -48,12 +48,12 @@ Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]
 *  Capítulo 12 Aula 3 – Estilos CSS externos
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  d001
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  d002
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  d003
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  d004
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  d005
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  d006
-* d007
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d001
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d002
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d003
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d004
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d005
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d006
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d007
 * d008
 * d009
