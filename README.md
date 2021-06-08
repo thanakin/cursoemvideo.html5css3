@@ -44,7 +44,7 @@ Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 6 – Incorporação de vídeos externos
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 7 – Desafio: um site com vídeos
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 12 Aula 1 – Estilos CSS inline
-*  Capítulo 12 Aula 2 – Estilos CSS internos
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 12 Aula 2 – Estilos CSS internos
 *  Capítulo 12 Aula 3 – Estilos CSS externos
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
