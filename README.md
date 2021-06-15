@@ -45,7 +45,36 @@ Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 11 Aula 7 – Desafio: um site com vídeos
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 12 Aula 1 – Estilos CSS inline
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 12 Aula 2 – Estilos CSS internos
-*  Capítulo 12 Aula 3 – Estilos CSS externos
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 12 Aula 3 – Estilos CSS externos
+
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 00 – O que vamos aprender no módulo 02?
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 01 – Psicologia das Cores
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 13 Aula 02 – Representando Cores com CSS3
+* Capítulo 13 Aula 03 – Harmonia de cores
+* Capítulo 13 Aula 04 – Paleta de cores
+* Capítulo 13 Aula 05 – Como capturar cores da tela?
+* Capítulo 13 Aula 06 – Como criar degradê com CSS ?
+* Capítulo 13 Aula 07 – Criando um exemplo real
+* Capítulo 14 Aula 01 – Primeiros passos em Tipografia
+* Capítulo 14 Aula 02 – Anatomia do tipo
+* Capítulo 14 Aula 03 – Famílias de fonte com CSS
+* Capítulo 14 Aula 04 – Tamanho de fonte e suas medidas
+* Capítulo 14 Aula 05 – Peso, estilo e shorthand font
+* Capítulo 14 Aula 06 – Usando Google Fonts
+* Capítulo 14 Aula 07 – Usando fontes externas baixadas
+* Capítulo 14 Aula 08 – Capturando as fontes usadas em um site
+* Capítulo 14 Aula 09 – Detectando fontes dentro de imagens
+* Capítulo 14 Aula 10 – Alinhamento de textos com CSS
+* Capítulo 15 Aula 01 – Usando o id com CSS
+* Capítulo 15 Aula 02 – As diferenças entre id e class
+* Capítulo 15 Aula 03 – Pseudo-classes em CSS
+* Capítulo 15 Aula 04 – Pseudo-elementos em CSS
+* Capítulo 16 Aula 01 – Modelo de Caixas: primeiros passos
+* Capítulo 16 Aula 02 – Modelo de Caixas na prática (pt.1)
+* Capítulo 16 Aula 03 – Modelo de Caixas na prática (Pt.2)
+* Capítulo 16 Aula 04 – Grouping Tags em HTML5
+* Capítulo 16 Aula 05 – Sombra nas Caixas
+* Capítulo 16 Aula 06 – Caixas com vértices arredondados
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d001
