@@ -1,11 +1,9 @@
 # cursoemvideo.html5css3
 
-<a href="https://www.cursoemvideo.com/course/html5-css3-modulo1/">https://www.cursoemvideo.com/course/html5-css3-modulo1/</a>
-
 <a href="https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf">PDF's das aulas</a>
 
 Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]
-
+<a href="https://www.cursoemvideo.com/course/html5-css3-modulo1/">https://www.cursoemvideo.com/course/html5-css3-modulo1/</a>
 ## Módulo 1
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 1 Aula 1 – Precisamos fazer um acordo
@@ -47,11 +45,14 @@ Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 12 Aula 2 – Estilos CSS internos
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 12 Aula 3 – Estilos CSS externos
 
+Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
+<a href="https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/">https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/</a>
+## Módulo 2
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 00 – O que vamos aprender no módulo 02?
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 01 – Psicologia das Cores
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 13 Aula 02 – Representando Cores com CSS3
-* Capítulo 13 Aula 03 – Harmonia de cores
-* Capítulo 13 Aula 04 – Paleta de cores
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 13 Aula 03 – Harmonia de cores
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 13 Aula 04 – Paleta de cores
 * Capítulo 13 Aula 05 – Como capturar cores da tela?
 * Capítulo 13 Aula 06 – Como criar degradê com CSS ?
 * Capítulo 13 Aula 07 – Criando um exemplo real
