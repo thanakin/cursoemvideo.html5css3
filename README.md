@@ -50,12 +50,12 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 ## Módulo 2
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 00 – O que vamos aprender no módulo 02?
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 01 – Psicologia das Cores
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 13 Aula 02 – Representando Cores com CSS3
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 13 Aula 03 – Harmonia de cores
-* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/>  Capítulo 13 Aula 04 – Paleta de cores
-* Capítulo 13 Aula 05 – Como capturar cores da tela?
-* Capítulo 13 Aula 06 – Como criar degradê com CSS ?
-* Capítulo 13 Aula 07 – Criando um exemplo real
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 02 – Representando Cores com CSS3
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 03 – Harmonia de cores
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 04 – Paleta de cores
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 05 – Como capturar cores da tela?
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 06 – Como criar degradê com CSS ?
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 13 Aula 07 – Criando um exemplo real
 * Capítulo 14 Aula 01 – Primeiros passos em Tipografia
 * Capítulo 14 Aula 02 – Anatomia do tipo
 * Capítulo 14 Aula 03 – Famílias de fonte com CSS

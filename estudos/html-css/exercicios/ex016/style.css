@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    /* height: 100%; */
+}
+
+body {
+    background-image: linear-gradient(to right, #D9D9D9, #F2B138);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(53, 61, 64, 0.726);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #F2B138;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(46, 33, 10, 0.761);
+}
+
+h2 {
+    color: #003F63;
+}
+
+p {
+    text-align: justify;
+}
+
+
+/* Color Theme Swatches in RGBA 
+.LOFT-REDUX-LMC-1-rgba { color: rgba(52, 61, 63, 1); }
+.LOFT-REDUX-LMC-2-rgba { color: rgba(216, 216, 216, 1); }
+.LOFT-REDUX-LMC-3-rgba { color: rgba(161, 165, 165, 1); }
+.LOFT-REDUX-LMC-4-rgba { color: rgba(242, 177, 56, 1); }
+.LOFT-REDUX-LMC-5-rgba { color: rgba(0, 63, 99, 1); }
+*/
