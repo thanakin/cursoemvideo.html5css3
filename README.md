@@ -66,9 +66,9 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 14 Aula 08 – Capturando as fontes usadas em um site
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 14 Aula 09 – Detectando fontes dentro de imagens
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 14 Aula 10 – Alinhamento de textos com CSS
-* Capítulo 15 Aula 01 – Usando o id com CSS
-* Capítulo 15 Aula 02 – As diferenças entre id e class
-* Capítulo 15 Aula 03 – Pseudo-classes em CSS
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 01 – Usando o id com CSS
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 02 – As diferenças entre id e class
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 03 – Pseudo-classes em CSS
 * Capítulo 15 Aula 04 – Pseudo-elementos em CSS
 * Capítulo 16 Aula 01 – Modelo de Caixas: primeiros passos
 * Capítulo 16 Aula 02 – Modelo de Caixas na prática (pt.1)
@@ -76,6 +76,14 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 * Capítulo 16 Aula 04 – Grouping Tags em HTML5
 * Capítulo 16 Aula 05 – Sombra nas Caixas
 * Capítulo 16 Aula 06 – Caixas com vértices arredondados
+* Capítulo 16 Aula 07 – Bordas decoradas
+* Capítulo 16 Aula 08 – DESAFIO do Módulo 2
+* Capítulo 17 Aula 01 – Criando um projeto a partir do zero
+* Capítulo 17 Aula 02 – Navegando pelo projeto pronto
+* Capítulo 17 Aula 03 – Planejando a estrutura do seu site
+* Capítulo 17 Aula 04 – Transformando o layout em código
+* Capítulo 17 Aula 05 – Organizando o conteúdo do site
+* Capítulo 17 Aula 06 – Variáveis em CSS
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d001
