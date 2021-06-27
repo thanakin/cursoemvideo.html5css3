@@ -69,7 +69,7 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 01 – Usando o id com CSS
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 02 – As diferenças entre id e class
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 03 – Pseudo-classes em CSS
-* Capítulo 15 Aula 04 – Pseudo-elementos em CSS
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 04 – Pseudo-elementos em CSS
 * Capítulo 16 Aula 01 – Modelo de Caixas: primeiros passos
 * Capítulo 16 Aula 02 – Modelo de Caixas na prática (pt.1)
 * Capítulo 16 Aula 03 – Modelo de Caixas na prática (Pt.2)
