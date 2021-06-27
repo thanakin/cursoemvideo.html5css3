@@ -70,14 +70,14 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 02 – As diferenças entre id e class
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 03 – Pseudo-classes em CSS
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 15 Aula 04 – Pseudo-elementos em CSS
-* Capítulo 16 Aula 01 – Modelo de Caixas: primeiros passos
-* Capítulo 16 Aula 02 – Modelo de Caixas na prática (pt.1)
-* Capítulo 16 Aula 03 – Modelo de Caixas na prática (Pt.2)
-* Capítulo 16 Aula 04 – Grouping Tags em HTML5
-* Capítulo 16 Aula 05 – Sombra nas Caixas
-* Capítulo 16 Aula 06 – Caixas com vértices arredondados
-* Capítulo 16 Aula 07 – Bordas decoradas
-* Capítulo 16 Aula 08 – DESAFIO do Módulo 2
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 01 – Modelo de Caixas: primeiros passos
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 02 – Modelo de Caixas na prática (pt.1)
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 03 – Modelo de Caixas na prática (Pt.2)
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 04 – Grouping Tags em HTML5
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 05 – Sombra nas Caixas
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 06 – Caixas com vértices arredondados
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 07 – Bordas decoradas
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 08 – DESAFIO do Módulo 2
 * Capítulo 17 Aula 01 – Criando um projeto a partir do zero
 * Capítulo 17 Aula 02 – Navegando pelo projeto pronto
 * Capítulo 17 Aula 03 – Planejando a estrutura do seu site
