@@ -78,11 +78,11 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 06 – Caixas com vértices arredondados
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 07 – Bordas decoradas
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 16 Aula 08 – DESAFIO do Módulo 2
-* Capítulo 17 Aula 01 – Criando um projeto a partir do zero
-* Capítulo 17 Aula 02 – Navegando pelo projeto pronto
-* Capítulo 17 Aula 03 – Planejando a estrutura do seu site
-* Capítulo 17 Aula 04 – Transformando o layout em código
-* Capítulo 17 Aula 05 – Organizando o conteúdo do site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 01 – Criando um projeto a partir do zero
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 02 – Navegando pelo projeto pronto
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 03 – Planejando a estrutura do seu site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 04 – Transformando o layout em código
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 05 – Organizando o conteúdo do site
 * Capítulo 17 Aula 06 – Variáveis em CSS
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
