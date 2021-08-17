@@ -85,9 +85,12 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 05 – Organizando o conteúdo do site
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 06 – Variáveis em CSS
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 07 – Responsividade para sites
-* Capítulo 17 Aula 08 – Responsividade na prática
-* Capítulo 17 Aula 09 – Configurando o header e o menu do site
-* Capítulo 17 Aula 10 – Melhorando o formato do conteúdo
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 08 – Responsividade na prática
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 08 – Responsividade na prática
+Capítulo 17 Aula 09 – Configurando o header e o menu do site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 10 – Melhorando o formato do conteúdo
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 11 – Rodapé, conteúdo periférico e links
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 12 – Tornando um vídeo responsivo
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d001
