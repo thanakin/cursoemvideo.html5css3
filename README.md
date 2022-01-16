@@ -91,6 +91,37 @@ Curso HTML5 e CSS3: módulo 2 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 10 – Melhorando o formato do conteúdo
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 11 – Rodapé, conteúdo periférico e links
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 17 Aula 12 – Tornando um vídeo responsivo
+
+Curso HTML5 e CSS3: módulo 3 de 5 [40 HORAS]
+<a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/">https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/</a>
+## Módulo 3
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 00 – O que vamos aprender no módulo 3?
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 01 – O que é Git e GitHub?
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 02 – Instalando Git e GitHub no PC
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 03 – Criando conta no GitHub
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 04 – Primeiro repositório git e GitHub
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 05 – Gerenciando Repositórios GitHub
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 06 – Hospedando site gratuitamente com GitHub Pages
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 07 – Manutenção em sites hospedados no GitHub Pages
+* Capítulo 18 Aula 08 – Recursos Sociais do GitHub
+* Capítulo 18 Aula 09 – Clonando Repositórios GitHub
+* Capítulo 18 Aula 10 – GitHub em vários PCs
+* Capítulo 19 Aula 01- Download das imagens do capítulo
+* Capítulo 19 Aula 02 – Colocando uma imagem de fundo no seu site
+* Capítulo 19 Aula 03 – Imagens que se repetem no fundo do site
+* Capítulo 19 Aula 04 – Configurando a posição da imagem no fundo do site
+* Capítulo 19 Aula 05 – Mudando o tamanho da imagem de fundo do site
+* Capítulo 19 Aula 06 – background-attachment e shorthand
+* Capítulo 19 Aula 07 – Centralização vertical de caixas
+* Capítulo 20 Aula 01 – Um projeto completo usando HTML e CSS
+* Capítulo 20 Aula 02 – Download e organização dos arquivos
+* Capítulo 20 Aula 03 – Ajustes no HTML do projeto
+* Capítulo 20 Aula 04 – Ajustes no CSS do projeto
+* Capítulo 20 Aula 05 – Colocando as fontes ao projeto
+* Capítulo 20 Aula 06 – Imagens com efeito Parallax simples
+* Capítulo 20 Aula 07 – Hospedando o Projeto Cordel gratuitamente
+* Capítulo 21 Aula 01 – Ainda podemos usar tabelas em HTML?
+* Capítulo 21 Aula 02 – Sua primeira tabela em HTML
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d001
