@@ -106,7 +106,7 @@ Curso HTML5 e CSS3: módulo 3 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 08 – Recursos Sociais do GitHub
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 09 – Clonando Repositórios GitHub
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 10 – GitHub em vários PCs
-* Capítulo 19 Aula 01 – Download das imagens do capítulo
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 01 – Download das imagens do capítulo
 * Capítulo 19 Aula 02 – Colocando uma imagem de fundo no seu site
 * Capítulo 19 Aula 03 – Imagens que se repetem no fundo do site
 * Capítulo 19 Aula 04 – Configurando a posição da imagem no fundo do site
