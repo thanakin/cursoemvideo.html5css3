@@ -107,10 +107,10 @@ Curso HTML5 e CSS3: módulo 3 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 09 – Clonando Repositórios GitHub
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 18 Aula 10 – GitHub em vários PCs
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 01 – Download das imagens do capítulo
-* Capítulo 19 Aula 02 – Colocando uma imagem de fundo no seu site
-* Capítulo 19 Aula 03 – Imagens que se repetem no fundo do site
-* Capítulo 19 Aula 04 – Configurando a posição da imagem no fundo do site
-* Capítulo 19 Aula 05 – Mudando o tamanho da imagem de fundo do site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 02 – Colocando uma imagem de fundo no seu site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 03 – Imagens que se repetem no fundo do site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 04 – Configurando a posição da imagem no fundo do site
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 05 – Mudando o tamanho da imagem de fundo do site
 * Capítulo 19 Aula 06 – background-attachment e shorthand
 * Capítulo 19 Aula 07 – Centralização vertical de caixas
 * Capítulo 20 Aula 01 – Um projeto completo usando HTML e CSS
@@ -122,6 +122,18 @@ Curso HTML5 e CSS3: módulo 3 de 5 [40 HORAS]
 * Capítulo 20 Aula 07 – Hospedando o Projeto Cordel gratuitamente
 * Capítulo 21 Aula 01 – Ainda podemos usar tabelas em HTML?
 * Capítulo 21 Aula 02 – Sua primeira tabela em HTML
+* Capítulo 21 Aula 03 – Alinhando o conteúdo em tabelas
+* Capítulo 21 Aula 04 – Aprendendo a trabalhar com tabelas grandes
+* Capítulo 21 Aula 05 – Caption e Escopo de títulos em tabelas
+* Capítulo 21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS
+* Capítulo 21 Aula 07 – Cabeçalho fixo em tabelas grandes
+* Capítulo 21 Aula 08 – Mesclagem de células
+* Capítulo 21 Aula 09 – Desafios (parte 1)
+* Capítulo 21 Aula 10 – Exemplo de tabela completa
+* Capítulo 21 Aula 11 – Escopos de grupo
+* Capítulo 21 Aula 12 – Desafios (parte 2)
+* Capítulo 21 Aula 13 – Agrupando Colunas com colgroup
+* Capítulo 21 Aula 14 – Tabelas responsivas
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d001
