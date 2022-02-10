@@ -8,15 +8,26 @@
     <style>
         body {
             height: 100vh;
+            /*
             background-color: black;
             background-image: url('./imagens/wallpaper002.jpg');
             background-position: center center;
             background-repeat: no-repeat;
             background-size: cover;
+            background-attachment: fixed;
+            */
+            
+            /* 
+            Shorthand - background
+            color > image > position > repeat > [size] > attachment
+            */
+
+            background: black url('./imagens/wallpaper002.jpg') center center no-repeat fixed;
+            background-size: cover;
         }
         main {
             background-color: white;
-            width: 400px;
+            max-width: 400px;
             padding: 10px;
             margin: auto;
             border: 1px solid darkblue;
@@ -31,6 +42,14 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam commodi rem odio eligendi laboriosam consequuntur accusantium doloremque error adipisci voluptatum, sit dolorum non esse ex ad aut eius illo repellendus.
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus cupiditate suscipit quos, repellendus provident repudiandae est dicta id sint recusandae odit velit ad nemo, molestias sunt, culpa illum totam ipsum.
         </p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus veniam quos eos, aut eligendi eveniet sed vitae, excepturi ipsum optio possimus reprehenderit tempore sequi blanditiis amet repudiandae? Quo, nisi et.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam commodi rem odio eligendi laboriosam consequuntur accusantium doloremque error adipisci voluptatum, sit dolorum non esse ex ad aut eius illo repellendus.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus cupiditate suscipit quos, repellendus provident repudiandae est dicta id sint recusandae odit velit ad nemo, molestias sunt, culpa illum totam ipsum.
+            </p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus veniam quos eos, aut eligendi eveniet sed vitae, excepturi ipsum optio possimus reprehenderit tempore sequi blanditiis amet repudiandae? Quo, nisi et.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam commodi rem odio eligendi laboriosam consequuntur accusantium doloremque error adipisci voluptatum, sit dolorum non esse ex ad aut eius illo repellendus.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus cupiditate suscipit quos, repellendus provident repudiandae est dicta id sint recusandae odit velit ad nemo, molestias sunt, culpa illum totam ipsum.
+            </p>
     </main>
 </body>
 </html>
