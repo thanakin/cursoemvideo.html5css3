@@ -113,13 +113,13 @@ Curso HTML5 e CSS3: módulo 3 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 05 – Mudando o tamanho da imagem de fundo do site
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 06 – background-attachment e shorthand
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 19 Aula 07 – Centralização vertical de caixas
-* Capítulo 20 Aula 01 – Um projeto completo usando HTML e CSS
-* Capítulo 20 Aula 02 – Download e organização dos arquivos
-* Capítulo 20 Aula 03 – Ajustes no HTML do projeto
-* Capítulo 20 Aula 04 – Ajustes no CSS do projeto
-* Capítulo 20 Aula 05 – Colocando as fontes ao projeto
-* Capítulo 20 Aula 06 – Imagens com efeito Parallax simples
-* Capítulo 20 Aula 07 – Hospedando o Projeto Cordel gratuitamente
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 01 – Um projeto completo usando HTML e CSS
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 02 – Download e organização dos arquivos
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 03 – Ajustes no HTML do projeto
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 04 – Ajustes no CSS do projeto
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 05 – Colocando as fontes ao projeto
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 06 – Imagens com efeito Parallax simples
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 07 – Hospedando o Projeto Cordel gratuitamente
 * Capítulo 21 Aula 01 – Ainda podemos usar tabelas em HTML?
 * Capítulo 21 Aula 02 – Sua primeira tabela em HTML
 * Capítulo 21 Aula 03 – Alinhando o conteúdo em tabelas
