@@ -120,10 +120,10 @@ Curso HTML5 e CSS3: módulo 3 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 05 – Colocando as fontes ao projeto
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 06 – Imagens com efeito Parallax simples
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 20 Aula 07 – Hospedando o Projeto Cordel gratuitamente
-* Capítulo 21 Aula 01 – Ainda podemos usar tabelas em HTML?
-* Capítulo 21 Aula 02 – Sua primeira tabela em HTML
-* Capítulo 21 Aula 03 – Alinhando o conteúdo em tabelas
-* Capítulo 21 Aula 04 – Aprendendo a trabalhar com tabelas grandes
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 01 – Ainda podemos usar tabelas em HTML?
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 02 – Sua primeira tabela em HTML
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 03 – Alinhando o conteúdo em tabelas
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 04 – Aprendendo a trabalhar com tabelas grandes
 * Capítulo 21 Aula 05 – Caption e Escopo de títulos em tabelas
 * Capítulo 21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS
 * Capítulo 21 Aula 07 – Cabeçalho fixo em tabelas grandes
