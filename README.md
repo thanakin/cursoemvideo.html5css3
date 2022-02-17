@@ -124,16 +124,16 @@ Curso HTML5 e CSS3: módulo 3 de 5 [40 HORAS]
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 02 – Sua primeira tabela em HTML
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 03 – Alinhando o conteúdo em tabelas
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 04 – Aprendendo a trabalhar com tabelas grandes
-* Capítulo 21 Aula 05 – Caption e Escopo de títulos em tabelas
-* Capítulo 21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS
-* Capítulo 21 Aula 07 – Cabeçalho fixo em tabelas grandes
-* Capítulo 21 Aula 08 – Mesclagem de células
-* Capítulo 21 Aula 09 – Desafios (parte 1)
-* Capítulo 21 Aula 10 – Exemplo de tabela completa
-* Capítulo 21 Aula 11 – Escopos de grupo
-* Capítulo 21 Aula 12 – Desafios (parte 2)
-* Capítulo 21 Aula 13 – Agrupando Colunas com colgroup
-* Capítulo 21 Aula 14 – Tabelas responsivas
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 05 – Caption e Escopo de títulos em tabelas
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 07 – Cabeçalho fixo em tabelas grandes
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 08 – Mesclagem de células
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 09 – Desafios (parte 1)
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 10 – Exemplo de tabela completa
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 11 – Escopos de grupo
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 12 – Desafios (parte 2)
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 13 – Agrupando Colunas com colgroup
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> Capítulo 21 Aula 14 – Tabelas responsivas
 ### Desafios
 https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d001
@@ -145,3 +145,10 @@ https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d007
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d008
 * <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d009
+
+https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-02
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d010
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d011
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d012
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d013
+* <img src="https://img.icons8.com/fluent/15/000000/ok.png"/> d014
